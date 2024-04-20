@@ -39,6 +39,7 @@
             cargo-edit
             cargo-watch
             rust-analyzer
+            cmake
             just
             # For test coverage
             grcov
